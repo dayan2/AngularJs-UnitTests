@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Page";
+    <script src="~/app/registration-module.js"></script>
+    <script src="~/app/course-repository.js"></script>
+    <script src="~/app/course-controller.js"></script>
+}
+
+<h2>Page</h2>
+
+
+<div ng-controller="coursesController">
+    <div ng-repeat="course in courses">
+        <div>{{course.id}}</div>
+        <div>{{course.name}}</div>
+    </div>
+</div>

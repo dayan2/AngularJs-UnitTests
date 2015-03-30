@@ -1,0 +1,64 @@
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\UnitTesting_AngularJs.dll.config
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\UnitTesting_AngularJs.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\UnitTesting_AngularJs.pdb
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\Antlr3.Runtime.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\EntityFramework.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\Newtonsoft.Json.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\System.Net.Http.Formatting.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\System.Web.Http.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\System.Web.Http.WebHost.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\System.Web.Mvc.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\System.Web.Optimization.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\System.Web.Providers.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\System.Web.Razor.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\System.Web.WebPages.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\WebGrease.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\EntityFramework.xml
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\Newtonsoft.Json.xml
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\System.Net.Http.Formatting.xml
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\System.Web.Http.xml
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\System.Web.Http.WebHost.xml
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\System.Web.Mvc.xml
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\System.Web.Razor.xml
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\System.Web.WebPages.xml
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\obj\Debug\UnitTesting_AngularJs.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\obj\Debug\UnitTesting_AngularJs.pdb
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Introduction For SignalR\AngularJs\UnitTesting-AngularJs\obj\Debug\UnitTesting_AngularJs.csprojResolveAssemblyReference.cache
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\UnitTesting_AngularJs.dll.config
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\UnitTesting_AngularJs.dll
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\UnitTesting_AngularJs.pdb
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\Antlr3.Runtime.dll
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\EntityFramework.dll
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\Newtonsoft.Json.dll
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\System.Net.Http.Formatting.dll
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\System.Web.Http.dll
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\System.Web.Http.WebHost.dll
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\System.Web.Mvc.dll
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\System.Web.Optimization.dll
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\System.Web.Providers.dll
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\System.Web.Razor.dll
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\System.Web.WebPages.dll
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\WebGrease.dll
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\EntityFramework.xml
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\Newtonsoft.Json.xml
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\System.Net.Http.Formatting.xml
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\System.Web.Http.xml
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\System.Web.Http.WebHost.xml
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\System.Web.Mvc.xml
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\System.Web.Razor.xml
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\System.Web.WebPages.xml
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\obj\Debug\UnitTesting_AngularJs.csprojResolveAssemblyReference.cache
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\obj\Debug\UnitTesting_AngularJs.dll
+C:\Users\Ewerdney\Desktop\My Projects\AngularJs\AngularJs-UnitTesting\Part1-SimpleExample-Stub\UnitTesting-AngularJs\obj\Debug\UnitTesting_AngularJs.pdb

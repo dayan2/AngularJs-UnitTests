@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <!--Step1-Goto Extensions and Download Jasmine & Sinonjs-->
+    <!--Step2-Create this html page-->
+
+    <link href="css/jasmine.css" rel="stylesheet" />
+
+    <script src="Scripts/jasmine.js"></script>
+    <script src="Scripts/jasmine-html.js"></script>
+    <script src="Scripts/sinon-1.9.1.js"></script>
+
+
+    <script src="Scripts/angular.min.js"></script>
+    <script src="Scripts/angular-resource.min.js"></script>
+    <script src="Scripts/angular-route.js"></script>
+    <script src="Scripts/angular-mocks.js"></script>
+
+    <script src="app/registration-module.js"></script>
+    <script src="app/course-repository.js"></script>
+    <script src="app/course-controller.js"></script>
+
+    <script src="course-controller-test.js"></script>
+
+    <script type="text/javascript">
+        (function () {
+            var jasmineEnv = jasmine.getEnv();
+            jasmineEnv.updateInterval = 1000;
+
+            var htmlReporter = new jasmine.HtmlReporter();
+
+            jasmineEnv.addReporter(htmlReporter);
+
+            jasmineEnv.specFilter = function (spec) {
+                return htmlReporter.specFilter(spec);
+            };
+
+            var currentWindowOnload = window.onload;
+
+            window.onload = function () {
+                if (currentWindowOnload) {
+                    currentWindowOnload();
+                }
+                execJasmine();
+            };
+
+            function execJasmine() {
+                jasmineEnv.execute();
+            }
+        })();
+    </script>
+</head>
+<body>
+
+</body>
+</html>
